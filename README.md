@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1)
+![MasterHead](https://www.saratechnologies.com/images/blockchain-game-banner.jpg)
 <h1 align="center">Hi 👋, I'm Apoorav Vyas</h1>
 <h3 align="center">A passionate learner in the fields of AI ML,Web Development and Blockchain</h3>
 <img align="right" alt="" width="400" src=”https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1)”>
