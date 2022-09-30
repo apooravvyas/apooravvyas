@@ -9,23 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/apoorav_vyas" target="blank"><img src="https://img.shields.io/twitter/follow/apoorav_vyas?logo=twitter&style=for-the-badge" alt="apoorav_vyas" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contract Development**
+- 🔭 I’m currently working on **Web3 Development**
 
-- 🌱 I’m currently learning **Solidity,Web3JS,Hardhat**
+- 🌱 I’m currently learning **Solidity,Rust,Web3JS,Truffle,Hardhat**
 
-- 👯 I’m looking to collaborate on **Decentralised Applications**
+- 👯 I’m looking to collaborate on building **Decentralised Applications**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Machine Learning and Smart Contracts**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/apoorav-vyas-b699731b5/](https://www.linkedin.com/in/apoorav-vyas-b699731b5/)
 
-- 📝 I regularly write articles on [https://medium.com/@apoorav_vyas](https://medium.com/@apoorav_vyas)
+- 📝 I also write articles on [https://medium.com/@apoorav_vyas](https://medium.com/@apoorav_vyas)
 
-- 💬 Ask me about **react,javascript and node JS**
+- 💬 Ask me about **ML and Web3**
 
 - 📫 How to reach me **apoorav57@gmail.com**
 
-- 📄 Know about my experiences [https://twitter.com/apoorav_vyas](https://twitter.com/apoorav_vyas)
+- 📄 Know about my experiences on [https://twitter.com/apoorav_vyas](https://twitter.com/apoorav_vyas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
