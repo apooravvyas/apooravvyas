@@ -17,15 +17,13 @@
 
 - 🤝 I’m looking for help with **Machine Learning and Smart Contracts**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/apoorav-vyas-b699731b5/](https://www.linkedin.com/in/apoorav-vyas-b699731b5/)
-
 - 📝 I also write articles on [https://medium.com/@apoorav_vyas](https://medium.com/@apoorav_vyas)
 
 - 💬 Ask me about **ML and Web3**
 
-- 📫 How to reach me **apoorav57@gmail.com**
+- 📫 You can reachout to  me at **apoorav57@gmail.com**
 
-- 📄 Know about my experiences on [https://twitter.com/apoorav_vyas](https://twitter.com/apoorav_vyas)
+- 📄 Know about my experiences on [https://www.linkedin.com/in/apoorav-vyas-b699731b5/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
