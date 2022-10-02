@@ -23,7 +23,7 @@
 
 - 📫 You can reachout to  me at **apoorav57@gmail.com**
 
-- 📄 Know about my experiences on [https://www.linkedin.com/in/apoorav-vyas-b699731b5/)
+- 📄 Know about my experiences on [https://www.linkedin.com/in/apooravvyas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
