@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on building <b>Decentralized Applications</b><br>
 🤝 I’m looking to help with <b>ML and Smart Contract Development</b><br>
 🌱 I’m currently learning <b>Solidity,Rust,Ether.js,Hardhat,IPFS</b><br>
-📝 I regularly write articles on Medium](https://medium.com/@apoorav_vyas)<br>
+📝 I regularly write articles on [Medium](https://medium.com/@apoorav_vyas)<br>
 📫 You can reach out to me on **apoorav57@gmail.com**<br>
 📄 Know about omy experiences [Resume](https://drive.google.com/file/d/1KVjQRAmaJWpn5vKy1VbU1aBXroGwmaDU/view?usp=sharing)
 
