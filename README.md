@@ -3,13 +3,12 @@
 <h1 align="center">Hi, I'm Apoorav Vyas</h1>
 <h3 align="center">Builder working across AI, Blockchain, Products & Ecosystems</h3>
 
-<img align="right" alt="" width="400" src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1">
-
 # About Me
 
 → Building products at the intersection of <b>AI, Blockchain and frontier technology</b><br>
 → Interested in <b>product development, AI-native products and Web3</b><br>
-→ Experimented with products across <b>DeFi, NFTs, RWA and ecosystems</b><br>
+→ Background in <b>Blockchain Development, Product Research and Ecosystem Building</b><br>
+→ Built and experimented with products across <b>DeFi, NFTs, RWA and ecosystems</b><br>
 → Writing about <b>technology, markets and emerging systems</b> on [Substack](https://apoorav.substack.com)<br>
 → Reach me at **apoorav57@gmail.com**<br>
 → More of my work at [apoorav.com](https://apoorav.com)
