@@ -9,9 +9,8 @@
 
 → Building products at the intersection of <b>AI, Blockchain and frontier technology</b><br>
 → Interested in <b>product development, AI-native products and Web3</b><br>
-→ Background in <b>Blockchain Development, Product Research and Ecosystem Building</b><br>
-→ Built and experimented with products across <b>DeFi, NFTs, RWA and developer ecosystems</b><br>
-→ Writing about <b>technology, building, markets and emerging systems</b> on [Substack](https://apoorav.substack.com)<br>
+→ Experimented with products across <b>DeFi, NFTs, RWA and ecosystems</b><br>
+→ Writing about <b>technology, markets and emerging systems</b> on [Substack](https://apoorav.substack.com)<br>
 → Reach me at **apoorav57@gmail.com**<br>
 → More of my work at [apoorav.com](https://apoorav.com)
 
@@ -45,18 +44,6 @@
 → **TokenLease** — Decentralized NFT leasing and lending platform<br>
 → **Okane** — Real-world asset and real-estate tokenization project<br>
 → **Side Event Venues** — Event discovery and venue infrastructure
-
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=apooravvyas&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=apooravvyas&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apooravvyas&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=apooravvyas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=1)
 
 
 ## Writing
